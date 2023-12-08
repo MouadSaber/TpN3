@@ -1,0 +1,10 @@
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\obj\Debug\tp_n3.csproj.AssemblyReference.cache
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\obj\Debug\tp_n3.Form1.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\obj\Debug\tp_n3.Properties.Resources.resources
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\obj\Debug\tp_n3.csproj.GenerateResource.cache
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\obj\Debug\tp_n3.csproj.CoreCompileInputs.cache
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\bin\Debug\tp_n3.exe.config
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\bin\Debug\tp_n3.exe
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\bin\Debug\tp_n3.pdb
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\obj\Debug\tp_n3.exe
+C:\Users\S.P.i   shoop\Documents\G.I\Tps\AglCsharp\Tp3\tp_n3\tp_n3\obj\Debug\tp_n3.pdb
